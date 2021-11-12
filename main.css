@@ -1,0 +1,70 @@
+body {
+    background-image: url("131883431-halloween-seamless-pattern-funny-skeleton-skull-and-bones-vector-pattern-with-dog-skeleton-and-cat-s.jpg");
+}
+
+#cimsor{
+text-align: center;
+margin-bottom: 5em;
+color: rgb(0, 0, 0);
+}
+
+h1 span{
+    background-color: rgb(255, 187, 0);
+}
+
+.sajatForm {
+    text-align: center;
+    border: 5px black solid;
+    border-radius: 60px;
+    font-weight: 500;
+    font-size: 1.05em;
+    padding-top: 1em;
+    padding-bottom: 1.5em;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 187, 0);
+
+}
+
+p.underCimSor {
+    padding-bottom: 0.8em;
+}
+
+
+h2 {
+    margin-bottom: 0.2em;
+}
+
+input {
+   margin-left: 0.3em;
+   margin-top: 0.4em;
+   margin-bottom: 0.4em;
+}
+
+#hibaSzoveg {
+    font-size: 0.5em;
+    color: red;
+}
+
+.kartyaSor{
+    margin-bottom: 0.4em;
+}
+
+a.szerkeszt{
+    color: white;
+    text-decoration: none;
+}
+a.szerkeszt:hover {
+    color:rgb(0, 180, 0);
+    text-decoration: underline;
+}
+
+a.megse {
+    color: black;
+    text-decoration: none;
+}
+a.megse:hover {
+    color: rgb(0, 180, 0);
+    text-decoration: underline;
+}
